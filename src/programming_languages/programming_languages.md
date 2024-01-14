@@ -6,7 +6,7 @@ This section has the goal to provide some shortcuts to shorten the frustration o
 
 - [C](./c.md)
 - [C++](./c++.md)
-- C#
+- [C#](./cs.md)
 - [JavaScript](./javascript/javascript.md)
 	- [TypeScript](./javascript/typescript.md)
 - [Rust](./rust.md)
