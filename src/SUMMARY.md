@@ -7,6 +7,7 @@
 		- [TypeScript](./programming_languages/javascript/typescript.md)
 	- [Rust](./programming_languages/rust.md)
 - [Concepts](./concepts/concepts.md)
+	- [Monomorphization](./concepts/monomorphization.md)
 	- [Multithreading](./concepts/multithreading.md)
 - [Cybersecurity](./cybersecurity/cybersecurity.md)
 - [Softwares](./softwares/softwares.md)
