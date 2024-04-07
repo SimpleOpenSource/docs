@@ -1,1 +1,0 @@
-# Start from a distribution

@@ -27,9 +27,6 @@
         - [Issues](./tools/git/issues.md)
         - [Security]()
 - [Tutorials](./tutorials/tutorials.md)
-    - [How to build a linux distribution](./tutorials/linux-distribution/linux-distribution.md)
-        - [Set up your environment](./tutorials/linux-distribution/1-set-up-your-environment.md)
-        - [Start from a distribution](./tutorials/linux-distribution/start-from-a-distribution.md)
-        - [Partition the disks](./tutorials/linux-distribution/disk-partitioning.md)
+    - [Build your own Linux distribution](./tutorials/linux-distribution.md)
 -----------
 [Contributors](misc/contributors.md)
