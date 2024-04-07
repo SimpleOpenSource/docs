@@ -28,7 +28,7 @@
         - [Security]()
 - [Tutorials](./tutorials/tutorials.md)
     - [How to build a linux distribution](./tutorials/linux-distribution/linux-distribution.md)
-        - [Set up your environment](./tutorials/linux-distribution/set-up-your-environment.md)
+        - [Set up your environment](./tutorials/linux-distribution/1-set-up-your-environment.md)
         - [Start from a distribution](./tutorials/linux-distribution/start-from-a-distribution.md)
         - [Partition the disks](./tutorials/linux-distribution/disk-partitioning.md)
 -----------
