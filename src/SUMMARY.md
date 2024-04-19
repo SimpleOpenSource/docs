@@ -26,6 +26,7 @@
         - [Branches]()
         - [Issues](./tools/git/issues.md)
         - [Security]()
+    - [Streamlit](./tools/streamlit.md)
 - [Tutorials](./tutorials/tutorials.md)
     - [How to build a linux distribution](./tutorials/linux-distribution/linux-distribution.md)
         - [Set up your environment](./tutorials/linux-distribution/set-up-your-environment.md)

@@ -6,5 +6,8 @@
 ## Web Development
 - [Favicon Generator](https://realfavicongenerator.net/)
 
+## Data Visualization
+- [Streamlit](./streamlit.md)
+
 ## Others
 - [mdBook](./mdBook.md): Build books in markdown to structure information easier.
